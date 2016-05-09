@@ -1,0 +1,7 @@
+Program to find the maximum subsequence in a file with 2^n elements.
+
+Compile with:
+clang -o launcher main.c -fopenmp -std=c11 -lm
+
+Run with:
+./launcher test1
